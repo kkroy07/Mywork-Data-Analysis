@@ -11,4 +11,3 @@ def leaders(self, A, N):
                 revlead.append(max)
         revlead.reverse()
         return revlead
-leaders([16,17,2,34,56],5)
